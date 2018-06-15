@@ -1,0 +1,4 @@
+name: NoBoats
+version: @version@
+author: Ninjoh
+main: nl.luchtgames.noboats.NoBoats
